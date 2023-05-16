@@ -39,3 +39,11 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.Restart,.Play{
+  width:50px;
+  background-color:darkgray;
+}
+.tr{
+  height :200px;
+  padding:3%;
+}
