@@ -41,9 +41,9 @@ footer {
 }
 .Restart,.Play{
   width:50px;
-  
-  padding:3%;
+  background-color:darkgray;
 }
 .tr{
-  padding:7%;
+  height :200px;
+  padding:3%;
 }
